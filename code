@@ -1,0 +1,4 @@
+ingredient= ['Cheese','Chips']
+recipie=[Nacho]
+if input==ingredient:
+  print('You can make some'recipie)
